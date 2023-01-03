@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,7 +63,7 @@ namespace Yara.StringDecryptionInvoker
 
         static void Main(string[] args)
         {
-            Console.Title = "Yara.SDI_v1.0 | @bfalk - Runcrime";
+            Console.Title = "Yara.SDI v1.0";
 
             if (args.Length == 0) { ShowError("\n No input file set!", true); }
 
