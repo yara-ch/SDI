@@ -2,6 +2,7 @@ TYPE=AYST
 
 [Metadata]
 AppName=Yara.SDI
+Description=RGVjcnlwdCBTdHJpbmdzIFVzaW5nIEludm9rZXMgLSBSZXNvbHZlIFN0cmluZ3MgaW4gLk5FVCBBcHBsaWNhdGlvbnMg
 Icon=
 RepoURL=https://github.com/yara-ch/SDI/
 
